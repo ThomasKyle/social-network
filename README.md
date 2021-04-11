@@ -4,7 +4,7 @@ AS A social media startup <br>
 I WANT an API for my social network that uses a NoSQL database <br>
 SO THAT my website can handle large amounts of unstructured data <br>
 
-##acceptence criteria
+## acceptence criteria
 GIVEN a social network API <br>
 WHEN I enter the command to invoke the application <br>
 THEN my server is started and the Mongoose models are synced to the MongoDB database <br>
